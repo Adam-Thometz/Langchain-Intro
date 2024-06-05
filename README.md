@@ -8,4 +8,4 @@ Made for this [Youtube tutorial](https://youtu.be/4lOC8eLY7EI)
 3. `pip install -r requirements.txt` (downloads `langchain_core`, `langchain_openai`, `langchain_anthropic`, and `python-dotenv`)
 4. `touch .env`
 5. `echo 'OPENAI_API_KEY=<YOUR API KEY>' > .env` 
-6. `echo 'ANTHROPIC_API_KEY=<YOUR API KEY>' >> .env`  (optional if you want to use Claude)
+6. `echo 'ANTHROPIC_API_KEY=<YOUR API KEY>' >> .env`  (optional if you want to use Claude)# Langchain-Intro
